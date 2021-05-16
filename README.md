@@ -9,6 +9,8 @@ Project2
 ### Description
 This project is to analyze the data available on 3 different cities regarding bike rental.
 
+The project uses python and packages like pandas and numpy in order to analyze the data.
+
 ### Files used
 chicago.csv
 new_york_city.csv
