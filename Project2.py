@@ -17,7 +17,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!\n')
+    print('Hello! Let\'s explore some US bikeshare data using Python, pandas, and numpy!\n')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         city = input('Which of the following city\' would you like to view? Chicago, New York or Washington?\n')
