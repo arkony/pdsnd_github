@@ -18,3 +18,4 @@ washington.csv
 python documentation
 pandas documentation
 numpy documentation
+udacity notes
